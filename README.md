@@ -1,4 +1,4 @@
-🏏 IPL Win Probability Prediction App
+# 🏏 IPL Win Probability Prediction App
 
 A Machine Learning–powered web application that predicts the win probability of an IPL team in real time based on the current match situation.
 Built using Python, scikit-learn, and Streamlit, and deployed on Streamlit Cloud.
